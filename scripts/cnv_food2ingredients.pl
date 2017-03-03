@@ -3,6 +3,7 @@
 
 # usage as:
 # cnv_food2ingredients.pl - infile.csv -outfile.csv
+# ./cnv_food2ingredients.pl -i ../user_data/food_ingredient.tsv > ../user_data/ingredient_list.tsv
 
 use Getopt::Long;
 
