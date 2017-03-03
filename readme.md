@@ -6,6 +6,7 @@ Contains the following:
 * peach_data - directory of simulated food diary data for 20 users over one year
 * tableau - tableau visualizations
 * scripts - perl and shell scripts used for data wrangling
+* user_data - real data on food ingredients for meals of US user
 
 Resources Used:
 * PEACH Data - http://kenji.azurewebsites.net/?p=301
